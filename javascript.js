@@ -20,3 +20,5 @@ let currentUserName;
 
 let z = 5 / 2;
 console.log(z);
+
+console.log((4 + 6 + 9)/77);
